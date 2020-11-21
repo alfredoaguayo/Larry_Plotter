@@ -1,8 +1,9 @@
-" Larry Plotter
+# Larry Plotter
 
 Esta saga de libros cuentan la historia de un *Hacker* excepcional.
 
 ** Alfredo Aguayo ** Git & Larry Plotter fan.
+
 ** alfredo.aguayo@circulocorp.com **
 
  Una almohadilla es H1
